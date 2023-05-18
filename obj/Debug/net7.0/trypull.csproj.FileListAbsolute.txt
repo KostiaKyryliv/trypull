@@ -1,0 +1,15 @@
+D:\projgit\trypull\bin\Debug\net7.0\trypull.exe
+D:\projgit\trypull\bin\Debug\net7.0\trypull.deps.json
+D:\projgit\trypull\bin\Debug\net7.0\trypull.runtimeconfig.json
+D:\projgit\trypull\bin\Debug\net7.0\trypull.dll
+D:\projgit\trypull\bin\Debug\net7.0\trypull.pdb
+D:\projgit\trypull\obj\Debug\net7.0\trypull.csproj.AssemblyReference.cache
+D:\projgit\trypull\obj\Debug\net7.0\trypull.GeneratedMSBuildEditorConfig.editorconfig
+D:\projgit\trypull\obj\Debug\net7.0\trypull.AssemblyInfoInputs.cache
+D:\projgit\trypull\obj\Debug\net7.0\trypull.AssemblyInfo.cs
+D:\projgit\trypull\obj\Debug\net7.0\trypull.csproj.CoreCompileInputs.cache
+D:\projgit\trypull\obj\Debug\net7.0\trypull.dll
+D:\projgit\trypull\obj\Debug\net7.0\refint\trypull.dll
+D:\projgit\trypull\obj\Debug\net7.0\trypull.pdb
+D:\projgit\trypull\obj\Debug\net7.0\trypull.genruntimeconfig.cache
+D:\projgit\trypull\obj\Debug\net7.0\ref\trypull.dll
