@@ -10,13 +10,12 @@ namespace trypull
     {
         static void obrobka(string vvedenny, string keyword)
         {
-            bool f = false;
             for (int i=0; i<3;i++)
             {
                 if(vvedenny == keyword)
                 {
                     System.Console.WriteLine("You win!");
-                    f = false;
+                    break;
                 }
                 else
                 {
